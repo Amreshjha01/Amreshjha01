@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**Amreshjha01/Amreshjha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Amresh jha</h1>
 <h3 align="center">I'm Amresh a 3rd year Computer Science Undergraduate from Marwari college TMBU , Bhagalpur. I'm a Tech Enthusiast, Front-end Web Developer.</h3>
 
