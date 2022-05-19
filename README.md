@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Amresh jha</h1>
+<h1 align="center">Hi 👋, I'm Amresh kumar</h1>
 <h3 align="center">I'm Amresh a 3rd year Computer Science Undergraduate from Marwari college TMBU , Bhagalpur. I'm a Tech Enthusiast, Front-end Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amreshjha01&label=Profile%20views&color=0e75b6&style=flat" alt="amreshjha01" /> </p>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS,**
 
-- 📫 How to reach me **Jamresh6@gmail.com**
+- 📫 How to reach me **amreshkumarjha.01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
